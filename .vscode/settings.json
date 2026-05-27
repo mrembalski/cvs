@@ -1,0 +1,5 @@
+{
+  "tinymist.exportPdf": "onSave",
+  "tinymist.outputPath": "$root/target/$dir/$name",
+  "tinymist.preview.background.enabled": true
+}
