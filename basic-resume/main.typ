@@ -48,7 +48,7 @@
 - Integrated ML workloads with major HPC infrastructures, including PCSS Eagle and PLGrid Athena/Ares, as well as cloud environments on GCP and AWS.
 - Built SLURM-based training and experimentation pipelines for parallel ML workloads, improving reproducibility and iteration speed across research workflows.
 - Enabled Singularity-based containerized workflows, improving portability and reproducibility across HPC and cloud environments.
-- Technologies: Python, PyTorch, CUDA, SLURM, GCP, AWS, Singularity, MySQL
+- *Technologies*: Python, PyTorch, CUDA, SLURM, GCP, AWS, Singularity, MySQL
 
 #work(
   title: "Software Engineer",
@@ -60,7 +60,7 @@
 - Contributed to phased legacy-system migration with minimal downtime while preserving production functionality.
 - Built ELK Stack-based monitoring and alerting system to improve production visibility and incident detection.
 - Supported database and backend reliability work across TypeScript/Node.js and PostgreSQL services.
-- Technologies: TypeScript, Node.js, PostgreSQL, ELK Stack, Ethereum
+- *Technologies*: TypeScript, Node.js, PostgreSQL, ELK Stack, Ethereum
 
 == Education
 
