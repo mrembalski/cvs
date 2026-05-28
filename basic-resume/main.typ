@@ -66,8 +66,6 @@
 
 #edu(
   institution: "University of Warsaw",
-  location: "Warsaw",
-  dates: dates-helper(start-date: "Oct 2019", end-date: "Jul 2023"),
   degree: "Bachelor of Computer Science",
 )
 
